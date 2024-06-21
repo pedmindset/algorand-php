@@ -17,7 +17,7 @@
     }
   ],
   "require": {
-    "php": "^7.4|^8.0|^8.3",
+    "php": "^7.4|^8.0|^8.2|^8.3",
     "ext-json": "*",
     "brick/math": "^0.9.3",
     "guzzlehttp/guzzle": "^7.4.1",
@@ -33,7 +33,7 @@
   "require-dev": {
     "friendsofphp/php-cs-fixer": "^3.1",
     "orchestra/testbench": "^6.12",
-    "phpunit/phpunit": "^9.5",
+    "phpunit/phpunit": "^9.5|^10.0",
     "spatie/ray": "^1.10"
   },
   "autoload": {
