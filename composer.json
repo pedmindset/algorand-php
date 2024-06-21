@@ -17,7 +17,7 @@
     }
   ],
   "require": {
-    "php": "^7.4|^8.0",
+    "php": "^7.4|^8.0|^8.3",
     "ext-json": "*",
     "brick/math": "^0.9.3",
     "guzzlehttp/guzzle": "^7.4.1",
